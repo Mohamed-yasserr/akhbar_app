@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         HomeScreen.routeName : (context) => HomeScreen()
       } ,
       initialRoute: HomeScreen.routeName,
-    );
+     );
   }
 }
 
